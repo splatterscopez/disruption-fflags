@@ -1,3 +1,4 @@
 {
   "EnableNewNPCPathfinding": false
+  "EnableMeleeParrying": true
 }
